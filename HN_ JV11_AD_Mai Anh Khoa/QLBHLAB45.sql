@@ -4,7 +4,7 @@
 create database QLBH_Mai_Anh_Khoa;
 use QLBH_Mai_Anh_Khoa;
 
--- ===================== CREATE DATABSE =====================
+-- ===================== CREATE TABLE =====================
 create table Customer (
 cID int primary key,
 `cName` VarChar (25),
